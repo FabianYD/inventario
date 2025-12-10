@@ -66,14 +66,6 @@ Sigue estos pasos para configurar el proyecto en tu entorno local:
     php artisan migrate
     ```
 
-7.  **Crear Usuario Administrador (Filament)**
-
-    Para acceder al panel administrativo, necesitas crear un usuario:
-
-    ```bash
-    php artisan make:filament-user
-    ```
-
     Sigue las instrucciones en la terminal para ingresar nombre, correo y contraseña.
 
 ## Ejecución
